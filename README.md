@@ -16,7 +16,7 @@
 
 **Gemeente Dentergem** — Device-fleet management and internal tooling, from PowerShell automation to full-stack admin apps backed by MSSQL and AD auth.
 
-**Howest Kortrijk** — Creative Technologies & AI with student-entrepreneur status. Current focus: computer vision, autonomous systems, and an experimental sub-250g quadcopter platform.
+**Howest Kortrijk** — Creative Technologies & AI with student-entrepreneur status.
 
 ---
 
@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoorsArthur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoorsArthur&layout=compact&langs_count=8&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoorsArthur&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=000000" height="165" />
 </p>
 
 <p align="center">
