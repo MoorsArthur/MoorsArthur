@@ -53,16 +53,6 @@
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoorsArthur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoorsArthur&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=000000" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoorsArthur&theme=github_dark&background=000000" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoorsArthur&theme=github_dark&background=000000" height="200" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MoorsArthur&theme=github-dark&hide_border=true&background=000000&stroke=1a1a1a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="165" />
 </p>
 
